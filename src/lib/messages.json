@@ -1,0 +1,23 @@
+{
+  "success": {
+    "dbcon": "Successfully connected to database",
+    "created": "Successfully created a record",
+    "retrieved": "Successfully retrieved record(s)",
+    "updated": "Successfully updated a record",
+    "deleted": "Successfully deleted the record",
+    "servercon": "Succefully Created Server And Running On Port ",
+    "servergqlcon": "Graphql Server ready at"
+  },
+  "error": {
+    "dbcon": "There was an error connecting to database",
+    "created": "There was an error creating the record",
+    "retrieved": "Error: Couldn't retrieve record(s)",
+    "updated": "There was an error updating the record",
+    "deleted": "There was an error deleting the record",
+    "doesnotexist": "Please select the correct Item",
+    "parameterAlreadyExists": "already exists",
+    "accountExists": "Sorry, Account already exists. Please choose a different username!",
+    "invalidCredentials": "Invalid Credentials!",
+    "null": "Sorry, the requested record was not found"
+  }
+}
